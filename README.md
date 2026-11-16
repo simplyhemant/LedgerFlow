@@ -215,7 +215,17 @@ POST /api/transactions
 - Users can only view balances of their own accounts
 - Transfers require both accounts to be `ACTIVE`
 
+---## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
 ---
+
+## 👤 Author
+
+**Your Name**
+- GitHub: [@your-username](https://github.com/your-username)
+- LinkedIn: [your-name](https://linkedin.com/in/your-name)
 
 ## 🔮 Future Improvements
 
@@ -235,14 +245,3 @@ Contributions, issues, and feature requests are welcome. Feel free to open an is
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-name](https://linkedin.com/in/your-name)
